@@ -1,8 +1,8 @@
 ﻿/// <reference path="../objects/gameobject.ts" />
-/// <reference path="../objects/cloud.ts" />
-/// <reference path="../objects/island.ts" />
-/// <reference path="../objects/ocean.ts" />
-/// <reference path="../objects/plane.ts" />
+/// <reference path="../objects/enemy.ts" />
+/// <reference path="../objects/reward.ts" />
+/// <reference path="../objects/background.ts" />
+/// <reference path="../objects/hero.ts" />
 /// <reference path="../objects/scoreboard.ts" />
 
 ﻿/*

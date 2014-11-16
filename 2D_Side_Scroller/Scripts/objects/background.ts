@@ -1,6 +1,6 @@
 ﻿/// <reference path="../managers/asset.ts" />
 
-﻿/*
+/*
 Author: Kelly McAlpine 200269425
 Project: 2D Side-Scroller Game
 Last Updated: 11/15/2014
@@ -28,9 +28,9 @@ module objects {
 
         update() {
             this.x -= 3;
-            if (this.x + this.width -50 <= 0) {
+            if (this.x + this.width - 50 <= 0) {
                 this.reset();
             }
         }
     }
-} 
+}  

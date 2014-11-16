@@ -1,4 +1,4 @@
-﻿﻿/*
+﻿/*
 Author: Kelly McAlpine 200269425
 Project: 2D Side-Scroller Game
 Last Updated: 11/15/2014
@@ -33,4 +33,4 @@ module objects {
 
         }
     }
-} 
+}  
