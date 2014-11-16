@@ -9,7 +9,7 @@ module objects {
         }
 
         update() {
-            this.y = stage.mouseY;
+            this.y = stage.mouseY * 0.5;
         }
     }
 } 
