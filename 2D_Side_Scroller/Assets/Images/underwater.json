@@ -1,0 +1,21 @@
+{
+"images": ["underwater.png"],
+"frames": [
+
+    [2, 2, 65, 62], 
+    [146, 2, 100, 41], 
+    [69, 2, 75, 58], 
+    [146, 45, 65, 7]
+],
+"animations": {
+    
+        "enemy":[0], 
+        "hero":[1], 
+        "reward":[2], 
+        "shoot":[3]
+},
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:ff01419fa60dc6c56042d880547bd087:6f922a7714367a48d8b4a302800018b4:74918acf53a1c762d01070b38fb95ad2$",
+        "Created with TexturePacker (http://www.texturepacker.com) for EaselJS"
+]
+}
